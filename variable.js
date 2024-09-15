@@ -2,8 +2,8 @@ const CI=123;
 const nam="dhiraj";
 const village="madhopur";
 const add=8+10;
-console.table([CI, nam ,village, add]) //print all the elements in tha tabular format
-console.count([CI, nam ,village, add])
+console.table([CI , nam ,village, add]) //print all the elements in tha tabular format
+console.count([CI , nam ,village, add])
 
 var a=10;
 var a=5 // only 5 print
